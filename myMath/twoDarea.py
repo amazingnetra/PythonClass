@@ -9,5 +9,5 @@ class twoDArea:
     def CirleArea(self,radius):
         return (22/7)*radius*radius 
 
-    def TriangleArea(self,base, height):
+    def TriangleArea(self, base, height):
         return (1/2)*base*height 

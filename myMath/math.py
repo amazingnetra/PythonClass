@@ -26,6 +26,9 @@ class Mathematic:
     def Multiply(self, x, y):
         result = self.geometric.Multiplication(x, y)
         print('Multiplication of two numbers: ' + str(result))
+
+    def Divide(self, x, y):
+        result 
  
 
 
